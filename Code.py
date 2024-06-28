@@ -1,8 +1,8 @@
 
 Disease Prediction from Symptoms
-For this project, we'll be using the dataset from here: http://people.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html
 
-Copy the data from all the columns and paste it into an excel sheet -> raw_data.xlsx
+
+
 
 # Import Dependencies
 import csv
